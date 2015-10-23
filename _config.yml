@@ -1,0 +1,23 @@
+name: Max Binder
+favicon: null
+layout_spectrum: 0.8332041390240192
+typography_spectrum: 0.3160702751483768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2607687262352556
+  lightness: 0.589255349477753
+  saturation: 0.6345963403582573
+  rhythmicContrast: 0.46041429694741964
+purpose: []
